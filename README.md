@@ -44,11 +44,17 @@ The model was trained using 80% of the dataset and tested on the remaining 20%.
 
 Model performance was evaluated using:
 
-* Accuracy Score
+* Accuracy Score 
 * Training Accuracy
 * Testing Accuracy
 
-These metrics were used to assess the model's ability to correctly classify breast tumors.
+## Results
+
+Training Accuracy: 94.95%
+
+Testing Accuracy: 92.98%
+
+The Logistic Regression model achieved strong performance in classifying breast tumors as benign or malignant.
 
 ## Sample Predictions
 
